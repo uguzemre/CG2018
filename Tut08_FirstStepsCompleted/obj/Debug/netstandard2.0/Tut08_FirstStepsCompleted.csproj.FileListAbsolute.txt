@@ -1,0 +1,10 @@
+C:\Users\Windows 10\Desktop\ComputergrafikMIB-master\Tut08_FirstStepsCompleted\bin\Debug\netstandard2.0\Assets\AboutFuseeAssets.txt
+C:\Users\Windows 10\Desktop\ComputergrafikMIB-master\Tut08_FirstStepsCompleted\bin\Debug\netstandard2.0\Tut08_FirstStepsCompleted.deps.json
+C:\Users\Windows 10\Desktop\ComputergrafikMIB-master\Tut08_FirstStepsCompleted\bin\Debug\netstandard2.0\Tut08_FirstStepsCompleted.dll
+C:\Users\Windows 10\Desktop\ComputergrafikMIB-master\Tut08_FirstStepsCompleted\bin\Debug\netstandard2.0\Tut08_FirstStepsCompleted.pdb
+C:\Users\Windows 10\Desktop\ComputergrafikMIB-master\Tut08_FirstStepsCompleted\obj\Debug\netstandard2.0\Tut08_FirstStepsCompleted.csprojAssemblyReference.cache
+C:\Users\Windows 10\Desktop\ComputergrafikMIB-master\Tut08_FirstStepsCompleted\obj\Debug\netstandard2.0\Tut08_FirstStepsCompleted.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\ComputergrafikMIB-master\Tut08_FirstStepsCompleted\obj\Debug\netstandard2.0\Tut08_FirstStepsCompleted.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\ComputergrafikMIB-master\Tut08_FirstStepsCompleted\obj\Debug\netstandard2.0\Tut08_FirstStepsCompleted.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\ComputergrafikMIB-master\Tut08_FirstStepsCompleted\obj\Debug\netstandard2.0\Tut08_FirstStepsCompleted.dll
+C:\Users\Windows 10\Desktop\ComputergrafikMIB-master\Tut08_FirstStepsCompleted\obj\Debug\netstandard2.0\Tut08_FirstStepsCompleted.pdb

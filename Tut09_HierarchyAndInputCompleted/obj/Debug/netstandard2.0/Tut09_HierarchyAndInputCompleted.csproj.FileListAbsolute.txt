@@ -1,0 +1,10 @@
+C:\Users\Windows 10\Desktop\ComputergrafikMIB-master\Tut09_HierarchyAndInputCompleted\bin\Debug\netstandard2.0\Assets\AboutFuseeAssets.txt
+C:\Users\Windows 10\Desktop\ComputergrafikMIB-master\Tut09_HierarchyAndInputCompleted\bin\Debug\netstandard2.0\Tut09_HierarchyAndInputCompleted.deps.json
+C:\Users\Windows 10\Desktop\ComputergrafikMIB-master\Tut09_HierarchyAndInputCompleted\bin\Debug\netstandard2.0\Tut09_HierarchyAndInputCompleted.dll
+C:\Users\Windows 10\Desktop\ComputergrafikMIB-master\Tut09_HierarchyAndInputCompleted\bin\Debug\netstandard2.0\Tut09_HierarchyAndInputCompleted.pdb
+C:\Users\Windows 10\Desktop\ComputergrafikMIB-master\Tut09_HierarchyAndInputCompleted\obj\Debug\netstandard2.0\Tut09_HierarchyAndInputCompleted.csprojAssemblyReference.cache
+C:\Users\Windows 10\Desktop\ComputergrafikMIB-master\Tut09_HierarchyAndInputCompleted\obj\Debug\netstandard2.0\Tut09_HierarchyAndInputCompleted.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\ComputergrafikMIB-master\Tut09_HierarchyAndInputCompleted\obj\Debug\netstandard2.0\Tut09_HierarchyAndInputCompleted.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\ComputergrafikMIB-master\Tut09_HierarchyAndInputCompleted\obj\Debug\netstandard2.0\Tut09_HierarchyAndInputCompleted.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\ComputergrafikMIB-master\Tut09_HierarchyAndInputCompleted\obj\Debug\netstandard2.0\Tut09_HierarchyAndInputCompleted.dll
+C:\Users\Windows 10\Desktop\ComputergrafikMIB-master\Tut09_HierarchyAndInputCompleted\obj\Debug\netstandard2.0\Tut09_HierarchyAndInputCompleted.pdb
